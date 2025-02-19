@@ -8,6 +8,7 @@ Features
 ✅ Stores subscribed users in chat_ids.json
 
 Installation & Setup
+
 1️⃣ Clone the Repository
 Clone the repository using:
 git clone https://github.com/web3saad/Live-Crypto-Price.git
