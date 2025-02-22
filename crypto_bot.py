@@ -5,7 +5,7 @@ from telegram import Update, Bot
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Your bot token from BotFather
-TELEGRAM_BOT_TOKEN = "7781399668:AAHyCu4Q9ucY4B-KLKvqJpnAjN99lbd4ndA"
+TELEGRAM_BOT_TOKEN = "  "
 # File to store subscriber chat IDs
 CHAT_IDS_FILE = "chat_ids.json"
 
